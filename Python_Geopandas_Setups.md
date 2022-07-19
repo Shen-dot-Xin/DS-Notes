@@ -40,7 +40,7 @@
   * Pyproj 
   * Rtree 
 
-    Example: for Python 3.x installed, download: 
+    _Example_: for Python 3.x installed, download: 
     * GDAL-version-cp3x-cp3xm-win-amd64.whl 
     * Fiona-version-cp3x-cp3xm-win-amd64.whl 
     * pyproj-version-cp3x-cp3xm-win-amd64.whl 
