@@ -1,6 +1,6 @@
 ### Python installation:
 
-* Download exe file from the official website 
+* Download exe file from [the official website](https://www.python.org/downloads/) 
 * Check the installed path:  
   * Type `start %appdata%` in cmd 
   * From the popped up folder `..\AppData\Roaming` navigate to `..\AppData\Local` folder
