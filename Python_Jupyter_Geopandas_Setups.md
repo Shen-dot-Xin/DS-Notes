@@ -31,6 +31,10 @@
   * Close the cmd prompt and open a new one 
   * In the new cmd prompt type `echo %PATH%` to check if the path is shown 
 
+### Install [Jupiter](https://jupyter.org/install)
+* In cmd line, type `pip install jupyterlab`
+* Launch JupyterLab by typing `jupyter notebook` in cmd line. 
+
 ### Geopandas installation 
 
 * `pip install wheel` :  a package used to configure wheel files which are used to install geopandas dependencies 
